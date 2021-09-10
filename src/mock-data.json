@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Jenny Chan",
+      "username": "Jenny",
+      "email": "jenny.chan@email.com",
+      "phonenumber":"333-962-7516",
+      "website":"www.google.com"
+    },
+    {
+        "id": 2,
+        "name": "surya",
+        "username": "surya",
+        "email": "jenny.chan@email.com",
+        "phonenumber":"333-962-7516",
+        "website":"www.google.com"
+    },
+    {
+        "id": 3,
+        "name": "Jenny Chan",
+        "username": "Jenny",
+        "email": "jenny.chan@email.com",
+        "phonenumber":"97651673464",
+        "website":"www.google.com"
+   
+    }
+  ]
+  
